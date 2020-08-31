@@ -1,5 +1,7 @@
 package com.airbnb.epoxy
 
+
+
 import com.airbnb.epoxy.Utils.belongToTheSamePackage
 import com.airbnb.epoxy.Utils.isFieldPackagePrivate
 import com.airbnb.epoxy.Utils.isSubtype
@@ -8,6 +10,7 @@ import java.util.ArrayList
 import java.util.HashMap
 import java.util.HashSet
 import java.util.LinkedHashMap
+
 import javax.annotation.processing.RoundEnvironment
 import javax.lang.model.element.Element
 import javax.lang.model.element.ElementKind
