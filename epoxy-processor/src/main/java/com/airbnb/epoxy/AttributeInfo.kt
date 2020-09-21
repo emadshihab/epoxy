@@ -1,5 +1,8 @@
 package com.airbnb.epoxy
 
+
+
+
 import com.airbnb.epoxy.GeneratedModelInfo.AttributeGroup
 import com.airbnb.epoxy.Utils.EPOXY_MODEL_TYPE
 import com.airbnb.epoxy.Utils.isSubtypeOfType
